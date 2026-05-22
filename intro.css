@@ -303,7 +303,7 @@ input[type="text"] {
 }
 .btn:hover {
     transform: scale(1.05);
-    box-shadow: 0px 0px 8px #e87db0;
+    box-shadow: 0px 0px 8git px #e87db0;
 
 }
 #check:checked ~ .btn {
